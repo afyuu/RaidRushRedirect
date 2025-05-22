@@ -1,1 +1,1 @@
-# RaidRushRedirect
+# Raid Rush
